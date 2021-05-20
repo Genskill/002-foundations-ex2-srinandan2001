@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <cs50.h>
+/*Checking*/
 int main(void)
 {
     float a;
